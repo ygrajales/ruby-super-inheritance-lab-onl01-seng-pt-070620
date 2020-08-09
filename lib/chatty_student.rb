@@ -22,6 +22,5 @@ class ChattyStudent < Student
     super
   end
   
-  binding.pry
   
 end
