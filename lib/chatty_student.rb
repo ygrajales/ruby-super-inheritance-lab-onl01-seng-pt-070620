@@ -10,6 +10,15 @@ class Chatty_Student < student
     
   def raise_hand
     super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
   end
   
   
