@@ -1,6 +1,6 @@
 require_relative "./student.rb"
 
-class ChattyStudent < student
+class ChattyStudent < Student
   
   def hello
     super
